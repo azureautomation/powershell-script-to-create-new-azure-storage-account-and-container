@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 1569,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-create-new-azure-storage-account-and-container/master/Make-AzureStorageAccount.ps1",
+    "DownloadCount": 1829,
+    "Id": "Powershell-Script-to-25e9261f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 304,
+    "RaterCount": 3,
+    "Rating": 4.0,
+    "ReleaseDate": "2014-12-11T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will create a new Azure Storage Account and Container.\u00a0Azure Storage Account can have up to 500 TB of data, and we can have up to 100 Storage Accounts per Subscription (December 2014). Most importantly in my opinion is that Azure Storage Account has 20k IOPS limit. Th",
+    "Title": "Powershell Script to create new Azure Storage Account and Container",
+    "UpdatedDate": "2014-12-11T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-create-new-azure-storage-account-and-container",
+    "UserTags": "Microsoft Azure, Powershell, Create Azure Storage Account and Container"
+}
